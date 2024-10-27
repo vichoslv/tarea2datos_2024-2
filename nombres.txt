@@ -1,0 +1,19 @@
+Josefina Pino Monsalve
+Rol: 202373619-8
+Paralelo: 201
+Trabajo en:
+- Menu de comando en main
+- Orden en arbol de rating
+- Trabajo en funciones auxiliares
+- Creacion del destructor
+- Funciones en el arbol
+
+Vicente Silva Rios
+Rol: 202373514-0
+Paralelo: 201
+Trabajo en:
+- Menu de comandos en main
+- Trabajo en funciones auxiliares
+- Orden de lista enlazada
+- Creacion del destructor
+- Funciones en el arbol
